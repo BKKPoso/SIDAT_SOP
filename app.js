@@ -2,7 +2,7 @@
 
 /* ========== PENGATURAN (edit bagian ini saja) ========== */
 const CONFIG = {
-  API_URL: 'https://script.google.com/macros/s/AKfycbyg3DoGx3MRl4N6Ox4tvJc4fpwrh_hKAX9k7GVJn6fLAeBNEDmGqu0lwtyHZsrDhtiCzA/exec', // URL Web App Apps Script (berakhiran /exec)
+  API_URL: 'https://script.google.com/macros/s/AKfycbxRRwSljjVR7TB8jflUmEYvtbfOElgn_RLW_xsqtDMCgx2-wONalYqZmqHlQpanEnNr/exec', // URL Web App Apps Script (berakhiran /exec)
   TITLE: 'SOP SIDAT POSO',                      // judul website
   NEW_DAYS: 14,                              // SOP dianggap "Baru" jika diubah dalam N hari terakhir
 };
