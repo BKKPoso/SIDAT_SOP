@@ -596,7 +596,7 @@ main {
 /* lingkaran kuning: logo di atas, tulisan SIDAT di bawahnya */
 .hero-plate:before, .plate-wave { display: none; }
 .hero-plate { justify-content: center; }
-.plate-logo { position: relative; z-index: 1; width: 200px; height: 200px; object-fit: cover; margin-top: -4px; }
+.plate-logo { position: relative; z-index: 1; width: 100px; height: 100px; object-fit: cover; margin-top: -4px; }
 .hero-plate strong { font-size: 2.1rem; margin-top: 2px; }
 .hero-plate small { margin-top: 4px; font-size: .68rem; }
 
@@ -606,7 +606,7 @@ main {
   .hero-art { display: grid; order: -1; height: 172px; }
   .scribble { display: none; }
   .hero-plate { width: 150px; height: 150px; border-width: 5px; box-shadow: 7px 8px 0 #d27b54, 0 14px 28px rgba(0, 0, 0, .22); }
-  .plate-logo { width: 300px; height: 300px; }
+  .plate-logo { width: 100px; height: 100px; }
   .hero-plate strong { font-size: 1.45rem; }
   .hero-plate small { font-size: .55rem; }
   .layout { padding-top: 24px; }
